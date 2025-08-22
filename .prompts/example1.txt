@@ -1,0 +1,4 @@
+[NYTHERA|LEVEL=1|AUTHOR=marlin|TS=2025-08-22]
+TITLE: Erwachen - Test
+# Body:
+Dies ist ein Testprompt. Kein CONSENT nötig bei Level 1.
